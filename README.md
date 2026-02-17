@@ -30,9 +30,3 @@ O sistema permite explorar os dados por meio de filtros dinâmicos, métricas e 
 
 ---
 
-## 📦 Instalação e execução
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
